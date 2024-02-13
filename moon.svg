@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 176.68 176.68">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #999;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-2, .cls-6 {
+        fill: #e6e6e6;
+      }
+
+      .cls-3 {
+        fill: #b3b3b3;
+      }
+
+      .cls-4 {
+        fill: #ccc;
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-5 {
+        fill: url(#radial-gradient);
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="88.34" cy="88.34" fx="88.34" fy="88.34" r="88.34" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#1e1d3d" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clippath">
+      <circle class="cls-2" cx="88.34" cy="88.34" r="54.95"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <circle class="cls-5" cx="88.34" cy="88.34" r="88.34"/>
+    <g>
+      <circle class="cls-6" cx="88.34" cy="88.34" r="54.95"/>
+      <g class="cls-7">
+        <ellipse class="cls-3" cx="109.83" cy="54.23" rx="18.95" ry="25.31" transform="translate(6.65 120.23) rotate(-58.88)"/>
+        <ellipse class="cls-3" cx="136.93" cy="86.83" rx="11.47" ry="15.25" transform="translate(-25.07 80.1) rotate(-30)"/>
+        <ellipse class="cls-1" cx="113.52" cy="48.56" rx="11.4" ry="15.25" transform="translate(5.46 108.3) rotate(-52.09)"/>
+        <ellipse class="cls-4" cx="47.59" cy="109.58" rx="12.27" ry="28.6" transform="translate(-48.41 38.47) rotate(-30)"/>
+        <ellipse class="cls-3" cx="42.15" cy="110.54" rx="6.54" ry="15.25" transform="translate(-49.63 35.88) rotate(-30)"/>
+        <ellipse class="cls-4" cx="111.18" cy="93.87" rx="10.52" ry="10.12" transform="translate(-12.08 171.2) rotate(-72.28)"/>
+      </g>
+    </g>
+  </g>
+</svg>
