@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 137.75 137.75">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #999;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-2, .cls-6 {
+        fill: #e6e6e6;
+      }
+
+      .cls-3 {
+        fill: #b3b3b3;
+      }
+
+      .cls-4 {
+        fill: #ccc;
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-5 {
+        fill: url(#radial-gradient);
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="68.88" cy="68.88" fx="68.88" fy="68.88" r="68.88" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".1" stop-color="#fafafb" stop-opacity=".98"/>
+      <stop offset=".23" stop-color="#ededf0" stop-opacity=".92"/>
+      <stop offset=".36" stop-color="#d8d8dd" stop-opacity=".83"/>
+      <stop offset=".5" stop-color="#babac4" stop-opacity=".7"/>
+      <stop offset=".65" stop-color="#9494a3" stop-opacity=".53"/>
+      <stop offset=".8" stop-color="#66657b" stop-opacity=".32"/>
+      <stop offset=".95" stop-color="#302f4c" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#1e1d3d" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clippath">
+      <circle class="cls-2" cx="68.88" cy="68.88" r="54.95"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <circle class="cls-5" cx="68.88" cy="68.88" r="68.88"/>
+    <g>
+      <circle class="cls-6" cx="68.88" cy="68.88" r="54.95"/>
+      <g class="cls-7">
+        <ellipse class="cls-3" cx="90.37" cy="34.76" rx="18.95" ry="25.31" transform="translate(13.91 94.16) rotate(-58.88)"/>
+        <ellipse class="cls-3" cx="117.46" cy="67.36" rx="11.47" ry="15.25" transform="translate(-17.94 67.76) rotate(-30)"/>
+        <ellipse class="cls-1" cx="94.06" cy="29.1" rx="11.4" ry="15.25" transform="translate(13.31 85.43) rotate(-52.09)"/>
+        <ellipse class="cls-4" cx="28.12" cy="90.11" rx="12.27" ry="28.6" transform="translate(-41.29 26.13) rotate(-30)"/>
+        <ellipse class="cls-3" cx="22.68" cy="91.08" rx="6.54" ry="15.25" transform="translate(-42.5 23.54) rotate(-30)"/>
+        <ellipse class="cls-4" cx="91.71" cy="74.4" rx="10.52" ry="10.12" transform="translate(-7.08 139.12) rotate(-72.28)"/>
+      </g>
+    </g>
+  </g>
+</svg>
